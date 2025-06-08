@@ -1,0 +1,66 @@
+
+args is:
+Namespace(num_workers=1, path='test/same_num_of_iter/fractal_1_process_heavy_same_num_of_iter', sample_degree=200, iter_degree=1200, symetry_coef=3, resol_x=1920, resol_y=1080, colors_num=10)
+Function generate Took 2.4978 seconds
+Function calc_counter_norm Took 0.0172 seconds
+Function correction Took 0.0334 seconds
+count_max is: 177
+Function make_image Took 0.0017 seconds
+Function save_image Took 0.1011 seconds
+Function show_image Took 0.1818 seconds
+Function main Took 2.8164 seconds
+
+args is:
+Namespace(num_workers=2, path='test/same_num_of_iter/fractal_2_process_heavy_same_num_of_iter', sample_degree=200, iter_degree=600, symetry_coef=3, resol_x=1920, resol_y=1080, colors_num=10)
+Function generate Took 1.3746 seconds
+Function calc_counter_norm Took 0.0179 seconds
+Function correction Took 0.0339 seconds
+count_max is: 174
+Function make_image Took 0.0020 seconds
+Function save_image Took 0.1006 seconds
+Function show_image Took 0.1877 seconds
+Function main Took 1.7149 seconds
+
+args is:
+Namespace(num_workers=3, path='test/same_num_of_iter/fractal_3_process_heavy_same_num_of_iter', sample_degree=200, iter_degree=400, symetry_coef=3, resol_x=1920, resol_y=1080, colors_num=10)
+Function generate Took 1.0142 seconds
+Function calc_counter_norm Took 0.0169 seconds
+Function correction Took 0.0316 seconds
+count_max is: 171
+Function make_image Took 0.0019 seconds
+Function save_image Took 0.1003 seconds
+Function show_image Took 0.1840 seconds
+Function main Took 1.3609 seconds
+
+args is:
+Namespace(num_workers=4, path='test/same_num_of_iter/fractal_4_process_heavy_same_num_of_iter', sample_degree=200, iter_degree=300, symetry_coef=3, resol_x=1920, resol_y=1080, colors_num=10)
+Function generate Took 0.8703 seconds
+Function calc_counter_norm Took 0.0174 seconds
+Function correction Took 0.0357 seconds
+count_max is: 168
+Function make_image Took 0.0019 seconds
+Function save_image Took 0.1026 seconds
+Function show_image Took 0.1891 seconds
+Function main Took 1.2465 seconds
+
+args is:
+Namespace(num_workers=5, path='test/same_num_of_iter/fractal_5_process_heavy_same_num_of_iter', sample_degree=200, iter_degree=240, symetry_coef=3, resol_x=1920, resol_y=1080, colors_num=10)
+Function generate Took 0.7947 seconds
+Function calc_counter_norm Took 0.0169 seconds
+Function correction Took 0.0361 seconds
+count_max is: 165
+Function make_image Took 0.0021 seconds
+Function save_image Took 0.1021 seconds
+Function show_image Took 0.1905 seconds
+Function main Took 1.1867 seconds
+
+args is:
+Namespace(num_workers=6, path='test/same_num_of_iter/fractal_6_process_heavy_same_num_of_iter', sample_degree=200, iter_degree=200, symetry_coef=3, resol_x=1920, resol_y=1080, colors_num=10)
+Function generate Took 0.7598 seconds
+Function calc_counter_norm Took 0.0179 seconds
+Function correction Took 0.0393 seconds
+count_max is: 162
+Function make_image Took 0.0022 seconds
+Function save_image Took 0.1028 seconds
+Function show_image Took 0.1894 seconds
+Function main Took 1.1658 seconds

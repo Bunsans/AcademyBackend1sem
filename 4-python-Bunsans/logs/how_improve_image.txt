@@ -1,0 +1,18 @@
+
+args is:
+Namespace(num_workers=1, path='how_improve_image/fractal_1_process_how_improve_image', sample_degree=20000, iter_degree=1000, symetry_coef=3, resol_x=1920, resol_y=1080, colors_num=10)
+
+args is:
+Namespace(num_workers=2, path='how_improve_image/fractal_2_process_how_improve_image', sample_degree=20000, iter_degree=1000, symetry_coef=3, resol_x=1920, resol_y=1080, colors_num=10)
+
+args is:
+Namespace(num_workers=3, path='how_improve_image/fractal_3_process_how_improve_image', sample_degree=20000, iter_degree=1000, symetry_coef=3, resol_x=1920, resol_y=1080, colors_num=10)
+
+args is:
+Namespace(num_workers=4, path='how_improve_image/fractal_4_process_how_improve_image', sample_degree=20000, iter_degree=1000, symetry_coef=3, resol_x=1920, resol_y=1080, colors_num=10)
+
+args is:
+Namespace(num_workers=5, path='how_improve_image/fractal_5_process_how_improve_image', sample_degree=20000, iter_degree=1000, symetry_coef=3, resol_x=1920, resol_y=1080, colors_num=10)
+
+args is:
+Namespace(num_workers=6, path='how_improve_image/fractal_6_process_how_improve_image', sample_degree=20000, iter_degree=1000, symetry_coef=3, resol_x=1920, resol_y=1080, colors_num=10)

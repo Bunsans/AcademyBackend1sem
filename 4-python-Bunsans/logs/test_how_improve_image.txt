@@ -1,0 +1,38 @@
+
+args is:
+Namespace(num_workers=1, path='test/how_improve_image/fractal_1_process_how_improve_image', sample_degree=200, iter_degree=1000, symetry_coef=3, resol_x=1920, resol_y=1080, colors_num=10)
+Function generate Took 2.1422 seconds
+Function calc_counter_norm Took 0.0178 seconds
+Function correction Took 0.0348 seconds
+count_max is: 147
+Function make_image Took 0.0018 seconds
+Function save_image Took 0.1007 seconds
+Function show_image Took 0.1794 seconds
+Function main Took 2.4592 seconds
+
+args is:
+Namespace(num_workers=2, path='test/how_improve_image/fractal_2_process_how_improve_image', sample_degree=200, iter_degree=1000, symetry_coef=3, resol_x=1920, resol_y=1080, colors_num=10)
+Function generate Took 2.1769 seconds
+Function calc_counter_norm Took 0.0170 seconds
+Function correction Took 0.0328 seconds
+count_max is: 294
+Function make_image Took 0.0016 seconds
+Function save_image Took 0.1020 seconds
+Function show_image Took 0.1819 seconds
+Function main Took 2.5097 seconds
+
+args is:
+Namespace(num_workers=3, path='test/how_improve_image/fractal_3_process_how_improve_image', sample_degree=200, iter_degree=1000, symetry_coef=3, resol_x=1920, resol_y=1080, colors_num=10)
+Function generate Took 2.2794 seconds
+Function calc_counter_norm Took 0.0168 seconds
+Function correction Took 0.0335 seconds
+count_max is: 441
+Function make_image Took 0.0017 seconds
+Function save_image Took 0.1015 seconds
+Function show_image Took 0.1809 seconds
+Function main Took 2.6264 seconds
+
+args is:
+Namespace(num_workers=4, path='test/how_improve_image/fractal_4_process_how_improve_image', sample_degree=200, iter_degree=1000, symetry_coef=3, resol_x=1920, resol_y=1080, colors_num=10)
+Function generate Took 2.2366 seconds
+Function calc_counter_norm Took 0.0174 seconds

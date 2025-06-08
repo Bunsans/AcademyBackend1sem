@@ -1,0 +1,18 @@
+Level: 1
+If you need hint, type 'hint'
+
+lifes:  10 / 10
+Used letters: a b g 
+
+    ______
+    |   
+    |   
+    |   
+    |   
+    |   
+    |   
+    |   
+    |   
+---------------
+
+Test
